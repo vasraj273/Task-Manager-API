@@ -1,17 +1,28 @@
-This repository contains the Task Manager API built during my Summer Internship at Selkey. It’s a simple REST API using Node.js and Express.js to manage tasks with full CRUD functionality.
+This repository contains the Task Manager API developed during my Summer Internship at Selkey. The project demonstrates core backend concepts using Node.js and Express.js, with a focus on building a simple yet functional REST API to manage tasks.
 
 🔧 Features:
-Add tasks (title, description, status)
+Add Tasks: Create tasks with a title, description, and status
 
-Get all tasks
+Get Tasks: Retrieve all tasks
 
-Update task status
+Update Tasks: Modify task status
 
-Delete tasks
+Delete Tasks: Remove tasks by ID
 
-🛠 Tools & Concepts:
-Express.js, REST API, Middleware, JSON handling
+🧠 Concepts Covered:
+Express.js routing
 
-Tested using Postman
+RESTful API architecture
 
-This project helped me gain practical experience in backend development and API design.
+CRUD operations
+
+JSON request/response handling
+
+Middleware usage
+
+🛠 Tools Used:
+Node.js
+
+Express.js
+
+Postman (for API testing)
